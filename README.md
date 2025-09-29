@@ -1,1 +1,1 @@
-# This is my School and professional Github account. I work on projects using a different account.
+### This is my School Github account. I work on other projects using a different account.
